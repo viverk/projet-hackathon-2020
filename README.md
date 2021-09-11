@@ -1,5 +1,5 @@
 # projet-hackathon-2020
-Entreprise: Alice & Bob
+Entreprise: Alice & Bob https://www.linkedin.com/company/alice-bob/
 
 Technos: HTML ; CSS ; JavaScript ; jQuery ; Librairie HighCharts
 
