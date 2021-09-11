@@ -1,5 +1,6 @@
 # projet-hackathon-2020
 Entreprise: Alice & Bob
+
 Technos: HTML ; CSS ; JavaScript ; jQuery ; Librairie HighCharts
 
 Alice&Bob est une start-up incubée au sein d’Agoranov, elle vise à développer un ordinateur quantique universel sans erreur, elle base sa technologie sur des qubits à base de 
