@@ -1,4 +1,6 @@
 # projet-hackathon-2020
+Contexte: https://www.linkedin.com/posts/les-startups-%C3%A0-l-ecole_startupsaeqlaezcole-innovation-incubateur-activity-6738533551253278720-e104
+
 Entreprise: Alice & Bob https://www.linkedin.com/company/alice-bob/
 
 Technos: HTML ; CSS ; JavaScript ; jQuery ; Librairie HighCharts
